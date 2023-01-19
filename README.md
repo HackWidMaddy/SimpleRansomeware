@@ -1,9 +1,3 @@
-SUPERMAN
-write a description for github for i have made a simple ransomeware script using python and it infects only the current working directory 350 characters
-
-"Simple ransomware script using Python. Infects only the current working directory. Use at your own risk and for educational purposes only."
-SUPERMAN
-readme for github for the project i made called as ransomware in python which infects only the current working directory and it is using module called as fernet and it is only for educational purpose
 Ransomware in Python
 
 This project is a simple ransomware script that encrypts the files in the current working directory using the Fernet module in Python. It is important to note that this project is for educational purposes only and should not be used to harm others. Use at your own risk.
@@ -32,4 +26,3 @@ Contribution
 Questions
 
     If you have any questions about this project, please open an issue or contact me.
-
